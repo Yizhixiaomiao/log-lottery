@@ -6,8 +6,8 @@
   "build": {
     "frontendDist": "../dist",
     "devUrl": "http://localhost:6719/log-lottery",
-    "beforeDevCommand": "pnpm dev",
-    "beforeBuildCommand": "pnpm build"
+    "beforeDevCommand": "",
+    "beforeBuildCommand": ""
   },
   "app": {
     "windows": [
